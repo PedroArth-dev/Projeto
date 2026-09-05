@@ -232,16 +232,6 @@ O projeto tem como finalidade aplicar, de forma prática, os conhecimentos adqui
 
 Neste momento, o projeto encontra-se na fase de definição da proposta e levantamento das funcionalidades. O desenvolvimento será realizado posteriormente a partir dos requisitos definidos e dos feedbacks recebidos.
 
-## Equipe
-
-Projeto desenvolvido para a disciplina **Programação B — COMPO511**.
-
-**Integrantes:**
-
-* Nome do integrante 1
-* Nome do integrante 2
-* Nome do integrante 3
-
 ## Observação
 
 O MySpotify é um projeto acadêmico inspirado em funcionalidades de plataformas de streaming existentes. O projeto não possui vínculo oficial com o Spotify.
